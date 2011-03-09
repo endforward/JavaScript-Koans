@@ -4,7 +4,7 @@ $(document).ready(function(){
 	module("About Equality (topics/about_equality.js)");
 
 	test("numeric equality", function() {
-		equals(3 + __,  7, 'hmmmm?');
+		equals(3 + 4,  7, 'hmmmm?');
 	});
 
 	test("string equality", function() {
